@@ -1,3 +1,4 @@
 Percobaan repository
 - Mencoba membuat repo
-- Menambah kan data
+- menghapus data
+- melakukan commit
